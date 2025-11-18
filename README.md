@@ -2,5 +2,10 @@
 <p>
 @TODO:
 
-- Review over last season's robot?
-- Robot.py mini-lesson?</p>
+- Review past python code
+- Learn better practices
+- Deviate from complex runtime (please?)
+- Rewrite robot movement on last year's robot
+- Possible ultimate TNC<sup>1</sup> for general robot creation?</p>
+
+<sup>1</sup> - TNC refers to a Total Naming Convention; basically dumbifying hard code into simple code
