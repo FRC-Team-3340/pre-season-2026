@@ -8,4 +8,4 @@
 - Rewrite robot movement on last year's robot
 - Possible ultimate TNC<sup>1</sup> for general robot creation?</p>
 
-<sup>1</sup> - TNC refers to a Total Naming Convention; basically dumbifying hard code into simple code
+<sup>1</sup> - TNC refers to a Total Naming Convention; basically dumbifying hard code into simple, reuseable code.
